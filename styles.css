@@ -1,0 +1,19 @@
+body {
+   background-color: aquamarine;
+   color: rgb(62, 60, 60)
+}
+
+.main-container {
+   margin:  0 auto;
+   background-color: azure;
+   height: 400px;
+   display:flex;
+}
+
+
+#color-rows {
+   margin: 2px;
+   gap: 2px;
+   height: 300px;
+   flex-direction: column;
+}
